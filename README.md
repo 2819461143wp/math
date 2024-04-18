@@ -1,2 +1,2 @@
 # math
-math note by kxr
+> math note by 
