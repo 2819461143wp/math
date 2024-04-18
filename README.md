@@ -1,2 +1,2 @@
 # math
-> math note by 
+> math note by 孔祥仁
